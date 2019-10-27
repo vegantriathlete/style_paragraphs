@@ -1,0 +1,10 @@
+.field_side_bar_component {
+  margin-top: 10px;
+  float: left;
+  width: 25%;
+}
+
+.page-node-type-two-column-layout-webpage .node__content {
+  float: right;
+  width: 75%;
+}
