@@ -1,0 +1,6 @@
+name: Style Paragraphs
+type: theme
+description: A Bartik sub-theme to allow for styling Paragraphs
+core: 8.x
+
+base theme: bartik
